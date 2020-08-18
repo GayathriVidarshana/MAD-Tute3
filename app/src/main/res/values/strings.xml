@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="value1">Number 1</string>
+    <string name="value2">Number 2</string>
+    <string name="Inputvalue1"> </string>
+    <string name="Inputvalue2"> </string>
+    <string name="buttonOK">Ok</string>
+
+    <string name="DValue1">Number 1</string>
+    <string name="DValue2">Number 2</string>
+    <string name="DisValue1"> </string>
+    <string name="DisValue2"> </string>
+
+    <string name="Add">+</string>
+    <string name="red">-</string>
+    <string name="muly">* </string>
+    <string name="div">/</string>
+
+    <string name="Result"> </string>
+
+
+
+</resources>
